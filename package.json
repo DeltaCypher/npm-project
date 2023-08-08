@@ -1,6 +1,6 @@
 {
   "name": "test",
-  "version": "0.0.33",
+  "version": "0.0.34",
   "repository": {
     "type": "npm",
     "url": "http://10.0.2.4:8081/repository/npm-private/"
@@ -15,7 +15,6 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
-  
   "private": false,
   "dependencies": {
     "@angular/animations": "^16.1.0",
