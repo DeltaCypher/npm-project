@@ -3,7 +3,7 @@
   "version": "0.0.48",
   "repository": {
     "type": "npm",
-    "url": "http://10.3.41.51:8081/repository/npm-private/"
+    "url": "http://10.0.2.4:8081/repository/npm-private/"
   },
   "scripts": {
     "ng": "ng",
@@ -44,6 +44,6 @@
     "typescript": "~5.1.3"
   },
   "publishConfig": {
-    "registry": "http://10.3.41.51:8081/repository/npm-private/"
+    "registry": "http://10.0.2.4:8081/repository/npm-private/"
   }
 }
