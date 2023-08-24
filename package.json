@@ -1,6 +1,6 @@
 {
   "name": "test",
-  "version": "0.0.58",
+  "version": "0.0.59",
   "repository": {
     "type": "npm",
     "url": "http://10.0.2.4:8081/repository/npm-private/"
